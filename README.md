@@ -1,4 +1,6 @@
+Ｈｉ, Ｗｅｌｃｏｍｅ!!
 
+Ｉ'ｍ Ｋａｒｅｎ ａｎｄ ｔｈｉｓ ｉｓ ｍｙ  ＧＩＴＨＵＢ
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/karenascimento">
