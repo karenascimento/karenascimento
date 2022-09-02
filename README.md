@@ -1,6 +1,6 @@
-<div align="center style="display: flex">
-<img height="400em" src="https://cdn.discordapp.com/attachments/685894832303898760/1015318463201423360/Screenshot_20220902-135229_Teams.jpg">
-</div>
+
+<img src="https://cdn.discordapp.com/attachments/685894832303898760/1015336871011823636/MicrosoftTeams-image_1_1.png">
+
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/karenascimento">
