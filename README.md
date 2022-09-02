@@ -1,6 +1,6 @@
-Ｈｉ, Ｗｅｌｃｏｍｅ!!
-
-Ｉ'ｍ Ｋａｒｅｎ ａｎｄ ｔｈｉｓ ｉｓ ｍｙ  ＧＩＴＨＵＢ
+<div align="center style="display: flex">
+<img height="400em" src="https://cdn.discordapp.com/attachments/685894832303898760/1015318463201423360/Screenshot_20220902-135229_Teams.jpg">
+</div>
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/karenascimento">
