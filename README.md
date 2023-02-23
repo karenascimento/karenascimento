@@ -4,7 +4,6 @@
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/karenascimento">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=karenascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenascimento&layout=compact&langs_count=7&theme=radical"/>
     <h4 align="center">Ｓｔｕｄｙｉｎｇ: Ｊａｖａｓｃｒｉｐｔ, Ａｎｇｕｌａｒ, Ｂｏｏｔｓｔｒａｐ, ＨＴＭＬ, ＣＳＳ, Ｃ ａｎｄ ＳＡＳＳ</h4>
 </div>
