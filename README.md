@@ -2,9 +2,10 @@
 
 <br>
 <div align="center" style="display: flex">
+  <h4 align="center">Ｓｔｕｄｙｉｎｇ: Ｊａｖａｓｃｒｉｐｔ, Ａｎｇｕｌａｒ, Ｂｏｏｔｓｔｒａｐ, ＨＴＭＬ, ＣＳＳ, Ｃ ａｎｄ ＳＡＳＳ</h4>
   <a href="https://github.com/karenascimento">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenascimento&layout=compact&langs_count=7&theme=radical"/>
-    <h4 align="center">Ｓｔｕｄｙｉｎｇ: Ｊａｖａｓｃｒｉｐｔ, Ａｎｇｕｌａｒ, Ｂｏｏｔｓｔｒａｐ, ＨＴＭＬ, ＣＳＳ, Ｃ ａｎｄ ＳＡＳＳ</h4>
+    
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Karen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
