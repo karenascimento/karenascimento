@@ -1,5 +1,4 @@
-
-<img src="https://cdn.discordapp.com/attachments/685894832303898760/1015336871011823636/MicrosoftTeams-image_1_1.png">
+<h1>Olá! Eu sou a Karen Cristina.</h1>
 
 <br>
 <div align="center" style="display: flex">
