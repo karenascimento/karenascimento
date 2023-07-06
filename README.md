@@ -15,7 +15,6 @@
   <img align="center" alt="Karen-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img  align="center" alt="Karen-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
   <img  align="center" alt="Karen-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="right" alt="Karen-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685894832303898760/1015274071728066611/Screenshot_20220902-105322_Teams.jpg">
 </div>
   
   ##
